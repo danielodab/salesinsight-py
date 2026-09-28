@@ -91,4 +91,3 @@ senao a segmentacao contaria a mesma pessoa mais de uma vez.
 
 ## Video de demonstracao
 
-[inserir o link aqui]
